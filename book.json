@@ -1,0 +1,45 @@
+{
+    "Library": [
+
+        {
+            "id": "1",
+            "bname":"English fairy tails",
+            "byear":"2001",
+            "author":"joseph jacobs",
+            "brate":"449RS"
+
+        },
+        {
+            "id": "2",
+            "bname":" Wolf hall ",
+            "byear":"2003",
+            "author":" Hilary Mantel ",
+            "brate":"1745"
+
+        },
+        {
+            "id": "3",
+            "bname":" The loat gate ",
+            "byear":"2000",
+            "author":"Orson Scott Card ",
+            "brate":"1549RS"
+
+        },
+        {
+            "id": "4",
+            "bname":"Don Quixote",
+            "byear":"1984",
+            "author":"Miguel De Cervantes ",
+            "brate":"439RS"
+
+        },
+        {
+            "id": "5",
+            "bname":"The madman",
+            "byear":"1903",
+            "author":"kahlil gibran",
+            "brate":"499RS"
+
+        }
+    ]
+}
